@@ -1,0 +1,50 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #F9F6EF;
+}
+
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-decoration: overline;
+    font-size: 20px;
+}
+
+
+nav {
+    display: flex;
+    flex-direction: row; 
+    justify-content: center;
+    list-style-type: none;
+}
+
+
+li {
+    margin: 15px;
+    
+}
+
+li a {
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border-radius: 15px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 200px;
+    background-color: white;
+    
+}
