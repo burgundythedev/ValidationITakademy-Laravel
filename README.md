@@ -14,9 +14,9 @@ Les artistes ont:
 - une année de naissance
 - une nationalité
 
-Ces derniers pourront bien entendu avoir créé plusieurs personnages, alors qu'on considèrera que chaque personnage n'a qu'un seul dessinateur. J'ai reussi cette artie
+Ces derniers pourront bien entendu avoir créé plusieurs personnages, alors qu'on considèrera que chaque personnage n'a qu'un seul dessinateur. J'ai reussi cette consigne.
 
-L'application permet de modifier un personnage grace au bouton update, et de le supprimer. On peut voir les details de chaque Heros/personnage en cliquant sur son nom.
+L'application permet de modifier un personnage grace au bouton update, et de le supprimer. On peut voir les details de chaque Heros/personnage en cliquant sur son nom. Ma base de donnée est crée grace aux seeders et migrations via php my admin.
 
 Désolé, du retard et la non-fination du projet. J'ai besoin de plus temps pour travailler et m'organiser. Je vais m'ameliorer la dessus.
  
